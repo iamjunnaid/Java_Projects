@@ -45,7 +45,7 @@ public class Main {
             case 2 -> balance = balance + deposit();
             case 3 -> balance = balance - withdraw(balance);
             case 4 -> isRunning = false;
-            default -> System.out.println("Invalid Choice");
+            default -> System.out.println("Invalid Choice, please try again");
         }
 
         }
