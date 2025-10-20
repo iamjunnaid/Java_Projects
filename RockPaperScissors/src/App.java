@@ -69,6 +69,7 @@ public class App {
 
         System.out.print("Do you want to play agian(yes/no): ");
         playAgain = scanner.nextLine().toLowerCase();
+        System.out.println();
         }while(playAgain.equals("yes"));
 
         
