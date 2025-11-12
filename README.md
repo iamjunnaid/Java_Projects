@@ -53,6 +53,18 @@ You start with £100, place bets, spin 3 symbols, and win payouts based on match
 
 ---
 
+### 5. [🎵 Audio Player](https://github.com/iamjunnaid/Java_Projects/tree/master/AudioPlayer)
+A small console-based audio player in Java.
+You can play, stop, reset, and quit a .wav audio file using keyboard commands.
+
+**Features**
+- Play audio files (.wav format)
+- Stop playback anytime
+- Reset audio to the beginning
+- Quit the player gracefully
+
+---
+
 ## 🧰 Tools & Technologies
 - **Language:** Java 21  
 - **Libraries:** `java.util.Scanner`, `java.util.Random`  
