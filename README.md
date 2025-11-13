@@ -65,6 +65,18 @@ You can play, stop, reset, and quit a .wav audio file using keyboard commands.
 
 ---
 
+### 6. 🪓 [Hangman Game](https://github.com/iamjunnaid/Java_Projects/tree/master/Hangman)
+A simple console-based Hangman game in Java.  
+The computer randomly chooses a word, and you must guess the letters before the hangman is fully drawn.
+
+**Features**
+- Reads random words from a file  
+- Tracks correct and wrong guesses  
+- Displays hangman progress visually  
+- Ends after 6 wrong attempts
+
+---
+
 ## 🧰 Tools & Technologies
 - **Language:** Java 21  
 - **Libraries:** `java.util.Scanner`, `java.util.Random`  
