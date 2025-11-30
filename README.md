@@ -76,6 +76,17 @@ The computer randomly chooses a word, and you must guess the letters before the 
 - Ends after 6 wrong attempts
 
 ---
+### 7. ⏰  [Java Alarm Clock](https://github.com/iamjunnaid/Java_Projects/tree/master/AlarmClock)
+A simple console-based alarm clock built in Java.
+You set a time in HH:MM:SS format, watch a live ticking clock, and the program plays a .wav sound when the alarm goes off.
+
+**Features**
+- Set an alarm using 24-hour time format
+- Live updating console clock
+- Plays a .wav audio file at alarm time
+- Press Enter to stop the alarm sound
+
+---
 
 ## 🧰 Tools & Technologies
 - **Language:** Java 21  
